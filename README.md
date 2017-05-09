@@ -1,4 +1,4 @@
-# js_home_task_251. 
+# js_home_task_25. 
 1. Пиксельная точность для Chrome latest
 2. Верстка  responsive.
 3. Подключены нестандартные шрифты.
